@@ -1,4 +1,4 @@
-INSERT INTO `countries` (`id`, `binary_code`, `title`, `phone_code`) VALUES
+INSERT INTO `country` (`id`, `binary_code`, `title`, `phone_code`) VALUES
 (1, 'AF', 'Afghanistan', 93),
 (2, 'AL', 'Albania', 355),
 (3, 'DZ', 'Algeria', 213),
